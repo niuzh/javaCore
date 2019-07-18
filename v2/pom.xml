@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>corejava</groupId>
+    <artifactId>corejava</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>v2</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>v2ch01</module>
+  	<module>v2ch02</module>
+  	<module>v2ch03</module>
+  	<module>v2ch04</module>
+  	<module>v2ch05</module>
+  	<module>v2ch06</module>
+  	<module>v2ch07</module>
+  	<module>v2ch08</module>
+  	<module>v2ch09</module>
+  	<module>vhch10</module>
+  </modules>
+</project>
